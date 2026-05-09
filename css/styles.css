@@ -1528,20 +1528,6 @@ footer {
   margin-bottom: 0.5rem;
 }
 
-.footer-legal {
-  font-size: 0.55rem;
-  color: var(--text-dim);
-  line-height: 1.8;
-  max-width: 100%;
-}
-
-@media (min-width: 601px) {
-  .footer-legal {
-    font-size: 0.6rem;
-    max-width: 300px;
-  }
-}
-
 .footer-links {
   display: flex;
   flex-direction: column;
