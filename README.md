@@ -12,7 +12,6 @@ The website is designed to be operational from 11 PM to 4 AM, catering to late-n
 -   **Functional Shopping Cart:** A complete shopping cart system with a slide-out drawer. The cart state is persisted across sessions using `localStorage` and includes features for adding/removing items, adjusting quantities, and clearing the cart.
 -   **Live Service Status:** An interactive clock section displays the live Vancouver time and indicates whether the delivery service is currently "Open" or "Closed" based on its operational hours (11 PM - 4 AM).
 -   **Accessibility & Performance:** Includes modern web development best practices, such as `prefers-reduced-motion` fallbacks for animations and lazy loading for images.
--   **Age Verification:** An entry-point age gate that confirms users are of legal drinking age before granting access to the site content.
 
 ## Technology Stack
 
