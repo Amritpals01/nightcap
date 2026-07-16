@@ -11,8 +11,7 @@ The website is designed to be operational from 11 PM to 4 AM, catering to late-n
 -   **Dynamic Product Showcase:** Product data, including a "Whisky Library," is managed in JavaScript and dynamically rendered onto the page. Prices are calculated with a service markup.
 -   **Functional Shopping Cart:** A complete shopping cart system with a slide-out drawer. The cart state is persisted across sessions using `localStorage` and includes features for adding/removing items, adjusting quantities, and clearing the cart.
 -   **Live Service Status:** An interactive clock section displays the live Vancouver time and indicates whether the delivery service is currently "Open" or "Closed" based on its operational hours (11 PM - 4 AM).
--   **Accessibility & Performance:** Includes modern web development best practices, such as `prefers-reduced-motion` fallbacks for animations and lazy loading for images.
-
+  
 ## Technology Stack
 
 -   **HTML5**
