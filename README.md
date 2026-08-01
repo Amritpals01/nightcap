@@ -12,10 +12,4 @@ The website is designed to be operational from 11 PM to 4 AM, catering to late-n
 -   **Functional Shopping Cart:** A complete shopping cart system with a slide-out drawer. The cart state is persisted across sessions using `localStorage` and includes features for adding/removing items, adjusting quantities, and clearing the cart.
 -   **Live Service Status:** An interactive clock section displays the live Vancouver time and indicates whether the delivery service is currently "Open" or "Closed" based on its operational hours (11 PM - 4 AM).
   
-## Technology Stack
-
--   **HTML5**
--   **CSS3:** Custom Properties, Flexbox, Grid, Responsive Design, Animations
--   **JavaScript (ES6):** DOM manipulation, event handling, data management
--   **Anime.js:** Used for advanced SVG and element animations in the hero section.
 
